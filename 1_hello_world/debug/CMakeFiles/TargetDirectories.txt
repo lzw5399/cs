@@ -1,0 +1,3 @@
+/Users/zhiwen/code/cpp_start/1_hello_world/debug/CMakeFiles/main.dir
+/Users/zhiwen/code/cpp_start/1_hello_world/debug/CMakeFiles/edit_cache.dir
+/Users/zhiwen/code/cpp_start/1_hello_world/debug/CMakeFiles/rebuild_cache.dir
